@@ -1,3 +1,3 @@
 # Prueba-Git
 
-> Esto es un repo de prueba para el curso de Full Stack de Altia
+> Esto es un repo de prueba para el curso Full Stack de Altia
